@@ -1,6 +1,4 @@
-# Organ-Identifier
-
-# Medical Organ Classification Project
+# Organ-Identifier: Medical Organ Classification Project
 
 This project focuses on developing an AI model to classify the primary organs in medical images. The targeted organ categories include **Heart**, **Brain**, **Breast**, and **Limbs**. The model leverages transfer learning using ResNet50, combined with custom classification layers, to accurately distinguish between these organ types.
 
